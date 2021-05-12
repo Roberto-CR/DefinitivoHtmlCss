@@ -1,0 +1,85 @@
+.header{
+background-color: chocolate;
+height: 3.5rem;
+}
+.main-nav{
+    list-style: none;
+    text-align: right;
+    
+    
+
+}
+.main-nav__item{
+    display: inline-block;
+}
+
+.header p{
+    position: absolute;
+}
+
+.lado{
+    background-color: blue;
+    position: absolute;
+    top: 3%;
+    left: 6%;
+    width: 85%;
+    height: 20%;
+    border-radius: 5px;
+
+
+}
+.lado1{
+    background-color: blue;
+    position: absolute;
+    top: 25%;
+    left: 6%;
+    width: 85%;
+    height: 20%;
+    border-radius: 5px;
+
+
+}
+.lado2{
+    background-color: blue;
+    position: absolute;
+    top: 47%;
+    left: 6%;
+    width: 85%;
+    height: 20%;
+    border-radius: 5px;
+
+
+}
+.lado3{
+    background-color: blue;
+    position: absolute;
+    top: 69%;
+    left: 6%;
+    width: 85%;
+    height: 20%;
+    border-radius: 5px;
+
+
+}
+aside{
+    background-color: aquamarine;
+    position: relative;
+    width: 13rem;
+    height: 30rem;
+    border-radius: 5px;
+}
+
+.principal{
+  position: absolute;
+  left: 15.2vw;
+  top: 9%;
+  width: 84.8%;
+  height: 76.5%;
+  padding: 1rem;
+  
+  background-color: gray;
+}
+.abajo{
+    background-color: burlywood;
+    position: relative;
+}
