@@ -1,0 +1,25 @@
+
+div{
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+#one{
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    width: 500px;
+    height: 250px;
+    background-color: grey;
+    padding: 50px;
+}
+
+#two{
+    width: 250px;
+    background-color: red;
+    height: 50px;
+    position: absolute;
+    top: 45%;
+    left: 34%;
+}
