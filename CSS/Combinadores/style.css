@@ -1,0 +1,33 @@
+
+/* Hermano adyacente o cercano */
+/* h2 + p{
+    color:red;
+} */
+
+/*  Hermano general*/
+
+
+
+
+/* h2 ~ p{
+    color: red;
+} */
+
+
+
+
+/*  hijo directo*/
+/* 
+div > p {
+    color: red;
+}
+  */
+
+
+
+/* descendiente */
+
+div  p {
+    color: red;
+}
+ 
