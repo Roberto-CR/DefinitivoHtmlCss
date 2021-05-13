@@ -74,7 +74,7 @@ aside{
   left: 15.2vw;
   top: 9%;
   width: 84.8%;
-  height: 76.5%;
+  height: 76.7%;
   padding: 1rem;
   
   background-color: gray;
@@ -82,4 +82,6 @@ aside{
 .abajo{
     background-color: burlywood;
     position: relative;
+    top: 80%;
+    height: 5.5rem;
 }
