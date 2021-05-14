@@ -1,6 +1,6 @@
 .header{
 background-color: chocolate;
-height: 3.5rem;
+height: 10vh;
 }
 .main-nav{
     list-style: none;
@@ -21,9 +21,9 @@ height: 3.5rem;
     background-color: blue;
     position: absolute;
     top: 3%;
-    left: 6%;
-    width: 85%;
-    height: 20%;
+    left: 8.5%;
+    width: 16vw;
+    height: 15vh;
     border-radius: 5px;
 
 
@@ -32,20 +32,21 @@ height: 3.5rem;
     background-color: blue;
     position: absolute;
     top: 25%;
-    left: 6%;
-    width: 85%;
-    height: 20%;
+    left: 8.5%;
+    width: 16vw;
+    height: 15vh;
     border-radius: 5px;
+} 
 
 
-}
+
 .lado2{
     background-color: blue;
     position: absolute;
     top: 47%;
-    left: 6%;
-    width: 85%;
-    height: 20%;
+    left: 8.5%;
+    width: 16vw;
+    height: 15vh;
     border-radius: 5px;
 
 
@@ -54,27 +55,27 @@ height: 3.5rem;
     background-color: blue;
     position: absolute;
     top: 69%;
-    left: 6%;
-    width: 85%;
-    height: 20%;
+    left: 8.5%;
+    width: 16vw;
+    height: 15vh;
     border-radius: 5px;
 
 
-}
+} 
 aside{
     background-color: aquamarine;
     position: relative;
-    width: 13rem;
-    height: 30rem;
+    width: 20vw;
+    height: 80vh;
     border-radius: 5px;
 }
 
-.principal{
+ .principal{
   position: absolute;
-  left: 15.2vw;
-  top: 9%;
-  width: 84.8%;
-  height: 76.7%;
+  left: 20vw;
+  top: 10vh;
+  width: 80vw;
+  height: 80vh;
   padding: 1rem;
   
   background-color: gray;
@@ -83,5 +84,5 @@ aside{
     background-color: burlywood;
     position: relative;
     top: 80%;
-    height: 5.5rem;
-}
+    height: 10vh;
+} 
