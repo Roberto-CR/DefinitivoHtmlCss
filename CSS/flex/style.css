@@ -1,0 +1,28 @@
+.contenedor{
+    border: 0.3rem solid black;
+    display: flex;
+}
+
+.box{
+    width: 8vw;
+    height: 15vh;
+}
+
+.box1{
+    background-color: rebeccapurple;
+}
+.box2{
+    background-color: chocolate;
+}
+.box3{
+    background-color: cornflowerblue;
+}
+.box4{
+    background-color: red;
+}
+.box5{
+    background-color: darkblue;
+}
+.box6{
+    background-color: burlywood;
+}
