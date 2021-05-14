@@ -1,6 +1,8 @@
 .contenedor{
     border: 0.3rem solid black;
     display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
 }
 
 .box{
