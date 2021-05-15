@@ -1,0 +1,33 @@
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.c{
+width: 100%;
+min-height: 150px;
+height: 150px;
+}
+
+
+.c1{
+    background-color: rebeccapurple;
+}
+.c2{
+    background-color: chocolate;
+}
+.c3{
+    background-color: cornflowerblue;
+}
+.c4{
+    background-color: red;
+}
+.c5{
+    background-color: darkblue;
+}
+
+
+
+
+
+
